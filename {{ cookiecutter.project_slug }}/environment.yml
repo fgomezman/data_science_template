@@ -45,3 +45,5 @@ dependencies:
   - statsmodels
   - tensorflow
   {% endif -%}
+
+  prefix: /home/frank/mambaforge/envs/cookiecutter-personal
